@@ -4,12 +4,12 @@
 <title>OB/Management/Psychology - AI x Employee (49 journals)</title>
 <link>https://github.com/</link>
 <description>OB/Management/Psychology - AI x Employee (49 journals)</description>
-<lastBuildDate>Sun, 15 Nov 2026 06:25:27 +0000</lastBuildDate>
+<lastBuildDate>Sun, 15 Nov 2026 18:44:43 +0000</lastBuildDate>
 <item>
 <title><![CDATA[[JVB] Daily job crafting with generative artificial intelligence: Implications for work meaningfulness and engagement]]></title>
 <link>https://www.sciencedirect.com/science/article/pii/S0001879126000916?dgcid=rss_sd_all</link>
 <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0001879126000916?dgcid=rss_sd_all</guid>
-<pubDate>Sun, 15 Nov 2026 06:25:24 +0000</pubDate>
+<pubDate>Sun, 15 Nov 2026 18:44:41 +0000</pubDate>
 <category>Journal of Vocational Behavior</category>
 <description><![CDATA[ Publication date: December 2026   Source:  Journal of Vocational Behavior, Volume 171  Author(s): Neris Güven, Wendelien van Eerde, Almasa Sarabi, Corine Boon ]]></description>
 </item>
@@ -17,7 +17,7 @@
 <title><![CDATA[[LQ] Psychological Reactions to Subordinates’ LLM Use at Work]]></title>
 <link>https://www.sciencedirect.com/science/article/pii/S1048984326000639?dgcid=rss_sd_all</link>
 <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1048984326000639?dgcid=rss_sd_all</guid>
-<pubDate>Sun, 15 Nov 2026 06:25:00 +0000</pubDate>
+<pubDate>Sun, 15 Nov 2026 18:44:18 +0000</pubDate>
 <category>Leadership Quarterly</category>
 <description><![CDATA[ Publication date: December 2026   Source:  The Leadership Quarterly, Volume 37, Issue 6  Author(s): Samuel Meyers, Roman Briker, Yochanan E. Bigman ]]></description>
 </item>
@@ -25,7 +25,7 @@
 <title><![CDATA[[RP] Automation and employment over the technology life cycle: Evidence from European regions]]></title>
 <link>https://www.sciencedirect.com/science/article/pii/S0048733326002027?dgcid=rss_sd_all</link>
 <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0048733326002027?dgcid=rss_sd_all</guid>
-<pubDate>Sun, 15 Nov 2026 06:24:57 +0000</pubDate>
+<pubDate>Sun, 15 Nov 2026 18:44:15 +0000</pubDate>
 <category>Research Policy</category>
 <description><![CDATA[ Publication date: December 2026   Source:  Research Policy, Volume 55, Issue 10  Author(s): Florencia Jaccoud, Fabien Petit, Tommaso Ciarli, Maria Savona ]]></description>
 </item>
@@ -33,7 +33,7 @@
 <title><![CDATA[[RP] Synergistic gains between high skilled labor and workplace automation: The case of corporate innovation]]></title>
 <link>https://www.sciencedirect.com/science/article/pii/S0048733326002507?dgcid=rss_sd_all</link>
 <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0048733326002507?dgcid=rss_sd_all</guid>
-<pubDate>Sun, 15 Nov 2026 06:24:57 +0000</pubDate>
+<pubDate>Sun, 15 Nov 2026 18:44:15 +0000</pubDate>
 <category>Research Policy</category>
 <description><![CDATA[ Publication date: January 2027   Source:  Research Policy, Volume 56, Issue 1  Author(s): Shiu-Yik Au, Gunchang Kim, Andréanne Tremblay ]]></description>
 </item>
@@ -228,6 +228,22 @@
 <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
 <category>Annual Review of Psychology</category>
 <description><![CDATA[At the close of the twentieth century, human semantic memory was thought to be organized around dedicated, domain-specific modules operating independently of one another and of perception, action, and much of language. The intervening years have marked a transition toward a more holistic view in which semantics emerges from learned mappings among sensory, motor, and language representations, with recent work beginning to integrate semantic representation with theories of cognitive control and attention. This article reviews the reasons for this remarkable change in perspective, provides a snapshot of our current understanding of semantics in the mind and brain, and considers how this understanding may change in light of new innovations in artificial intelligence.]]></description>
+</item>
+<item>
+<title><![CDATA[[BBS] Beyond neurocentrism: situating cognition within the metabolic demands of the whole organism]]></title>
+<link>https://doi.org/10.1017/s0140525x26106219</link>
+<guid isPermaLink="false">https://doi.org/10.1017/s0140525x26106219</guid>
+<pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+<category>Behavioral and Brain Sciences</category>
+<description><![CDATA[We reorient Haueis and Colaço's metabolic framework of cognitive modeling by drawing on neuroscientific evidence from animal motor control, reinforcement learning, and decision-making to show that cognition emerged to serve the metabolic demands of the whole organism, rather than those of the brain alone. We also illustrate the generative value of our reframing to model cognition in artificial systems.]]></description>
+</item>
+<item>
+<title><![CDATA[[BBS] Bridging metabolic-cognitive modelling: from synaptic cost to functional brain organisation]]></title>
+<link>https://doi.org/10.1017/s0140525x2610630x</link>
+<guid isPermaLink="false">https://doi.org/10.1017/s0140525x2610630x</guid>
+<pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+<category>Behavioral and Brain Sciences</category>
+<description><![CDATA[Haueis and Colaço argue that metabolism is a generative principle for cognitive modelling. We extend this by bridging the "scaling gap" through functional PET (fPET) and network neuroscience. By measuring glucodynamics and the metabolic network of the brain, we can model how glucose metabolism enables network efficiency, temporal flexibility, information transfer, and ultimately the cognitive capacity of the human brain.]]></description>
 </item>
 <item>
 <title><![CDATA[[ASQ] In Pursuit of Ideal Data: Epistemic Enchantment and the Unintended Consequences of Datafying for Artificial Intelligence]]></title>
