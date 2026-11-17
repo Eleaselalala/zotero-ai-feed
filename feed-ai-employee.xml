@@ -4,12 +4,12 @@
 <title>OB/Management/Psychology - AI x Employee (49 journals)</title>
 <link>https://github.com/</link>
 <description>OB/Management/Psychology - AI x Employee (49 journals)</description>
-<lastBuildDate>Mon, 16 Nov 2026 21:54:59 +0000</lastBuildDate>
+<lastBuildDate>Tue, 17 Nov 2026 07:40:45 +0000</lastBuildDate>
 <item>
 <title><![CDATA[[JVB] Daily job crafting with generative artificial intelligence: Implications for work meaningfulness and engagement]]></title>
 <link>https://www.sciencedirect.com/science/article/pii/S0001879126000916?dgcid=rss_sd_all</link>
 <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0001879126000916?dgcid=rss_sd_all</guid>
-<pubDate>Mon, 16 Nov 2026 21:54:57 +0000</pubDate>
+<pubDate>Tue, 17 Nov 2026 07:40:43 +0000</pubDate>
 <category>Journal of Vocational Behavior</category>
 <description><![CDATA[ Publication date: December 2026   Source:  Journal of Vocational Behavior, Volume 171  Author(s): Neris Güven, Wendelien van Eerde, Almasa Sarabi, Corine Boon ]]></description>
 </item>
@@ -17,7 +17,7 @@
 <title><![CDATA[[LQ] Psychological Reactions to Subordinates’ LLM Use at Work]]></title>
 <link>https://www.sciencedirect.com/science/article/pii/S1048984326000639?dgcid=rss_sd_all</link>
 <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S1048984326000639?dgcid=rss_sd_all</guid>
-<pubDate>Mon, 16 Nov 2026 21:54:30 +0000</pubDate>
+<pubDate>Tue, 17 Nov 2026 07:40:24 +0000</pubDate>
 <category>Leadership Quarterly</category>
 <description><![CDATA[ Publication date: December 2026   Source:  The Leadership Quarterly, Volume 37, Issue 6  Author(s): Samuel Meyers, Roman Briker, Yochanan E. Bigman ]]></description>
 </item>
@@ -25,7 +25,7 @@
 <title><![CDATA[[RP] Automation and employment over the technology life cycle: Evidence from European regions]]></title>
 <link>https://www.sciencedirect.com/science/article/pii/S0048733326002027?dgcid=rss_sd_all</link>
 <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0048733326002027?dgcid=rss_sd_all</guid>
-<pubDate>Mon, 16 Nov 2026 21:54:27 +0000</pubDate>
+<pubDate>Tue, 17 Nov 2026 07:40:22 +0000</pubDate>
 <category>Research Policy</category>
 <description><![CDATA[ Publication date: December 2026   Source:  Research Policy, Volume 55, Issue 10  Author(s): Florencia Jaccoud, Fabien Petit, Tommaso Ciarli, Maria Savona ]]></description>
 </item>
@@ -33,7 +33,7 @@
 <title><![CDATA[[RP] Synergistic gains between high skilled labor and workplace automation: The case of corporate innovation]]></title>
 <link>https://www.sciencedirect.com/science/article/pii/S0048733326002507?dgcid=rss_sd_all</link>
 <guid isPermaLink="false">https://www.sciencedirect.com/science/article/pii/S0048733326002507?dgcid=rss_sd_all</guid>
-<pubDate>Mon, 16 Nov 2026 21:54:27 +0000</pubDate>
+<pubDate>Tue, 17 Nov 2026 07:40:22 +0000</pubDate>
 <category>Research Policy</category>
 <description><![CDATA[ Publication date: January 2027   Source:  Research Policy, Volume 56, Issue 1  Author(s): Shiu-Yik Au, Gunchang Kim, Andréanne Tremblay ]]></description>
 </item>
@@ -420,14 +420,6 @@
 <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
 <category>Organization Science</category>
 <description><![CDATA[I theorize that candidate filters, a core technology in digital labor markets considered central to cost-effective matching, redistributes costs from the search-and-screening stage to the job-offer stage of hiring. Filters cause employers to focus on applicants who display common preferred characteristics. At the search-and-screening stage, filters reduce the number of applicants interviewed and alter the composition of the interviewed pool by removing both lower and higher quality candidates. At the job-offer stage, filters lead employers to make job offers to candidates with easily observable signals of quality and higher wage demands. Additionally, I theorize that, if many firms target the same signals of quality, they may all pursue similar candidates. This increases bargaining power for those applicants, leading to more rejected job offers and higher wage demands. A randomized field experiment in a large online labor market confirms that filters redistribute hiring costs. The experiment shows that employers with access to filters interview 3.4% fewer applicants. Using a machine learning algorithm to proxy for unobservable-to-the-employer applicant quality, I show that filters cause employers to interview 28.9% fewer lower quality applicants and 36.9% fewer high-quality applicants per job. Among employers who actively used filters, I find suggestive evidence of worse job-offer outcomes: offers are 8.9% more likely to be rejected, and contracted wages are 2.5% higher. I discuss the implications of this cost redistribution for organizations, labor markets, and strategy research. Supplemental Material: The online appendix is available at https://doi.org/10.1287/orsc.2024.19407 .]]></description>
-</item>
-<item>
-<title><![CDATA[[AMR] The Axiology of AI Agents: How Human-AI Interaction Transforms Values from Espoused to Enacted]]></title>
-<link>https://doi.org/10.5465/amr.2024.0494</link>
-<guid isPermaLink="false">https://doi.org/10.5465/amr.2024.0494</guid>
-<pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-<category>Academy of Management Review</category>
-<description><![CDATA[Organizational scholars have long recognized that espoused values diverge from enacted values. Large language models (LLM)-based AI agents—autonomous software systems capable of perceiving environments, making decisions, collaborating, and taking actions to achieve defined goals—create a novel form of this classic problem. Unlike traditional technologies where humans retain interpretive control, AI agents autonomously navigate value trade-offs, and enacted values may differ from those espoused. How does the interaction of humans and AI transform espoused organizational values? Drawing on assemblage theory, we trace values transformation across three stacked assemblages (the LLM assemblage, the AI agent assemblage, and the algorithmic routine assemblage) through three transformation moments. During configuration, inherited orientations become explicit parameters; during embedding, parameters are integrated into organizational routines; and during performance, values are enacted through the interplay of algorithmic pathways and improvised responses. Recursive feedback connects enacted outcomes to subsequent configurations, producing ongoing transformation rather than stable alignment. Our framework extends scholarship on espoused and enacted values by specifying technologically mediated transformation mechanisms produced through the interaction of humans and AI. We also extend research on values work by showing how AI agents enact values without recognizing when those values no longer fit, leaving human improvisation to diagnose where value translation has faltered.]]></description>
 </item>
 <item>
 <title><![CDATA[[JMS] Algorithmic Status Inequality Through a Dynamic Capabilities Lens: A Market‐Based Perspective]]></title>
